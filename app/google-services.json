@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "115373028725",
+    "firebase_url": "https://shoppinglist-ac642-default-rtdb.firebaseio.com",
+    "project_id": "shoppinglist-ac642",
+    "storage_bucket": "shoppinglist-ac642.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115373028725:android:32ab3616fd20039c4dcf3c",
+        "android_client_info": {
+          "package_name": "com.example.shoppinglist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn1yx5MrGOiBBIXRQuomgH6hJPynqWqJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115373028725:android:6a45d1d390a8ddad4dcf3c",
+        "android_client_info": {
+          "package_name": "com.musira.shoppingList"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn1yx5MrGOiBBIXRQuomgH6hJPynqWqJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
